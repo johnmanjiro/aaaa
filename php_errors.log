@@ -1,0 +1,65 @@
+[27-Mar-2016 09:34:23 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:34:23 UTC] PHP Stack trace:
+[27-Mar-2016 09:34:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:34:23 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:34:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:34:23 UTC] PHP Stack trace:
+[27-Mar-2016 09:34:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:34:23 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:34:27 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:34:27 UTC] PHP Stack trace:
+[27-Mar-2016 09:34:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:34:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:34:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:34:27 UTC] PHP Stack trace:
+[27-Mar-2016 09:34:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:34:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:35:00 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:35:00 UTC] PHP Stack trace:
+[27-Mar-2016 09:35:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:35:00 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:35:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:35:00 UTC] PHP Stack trace:
+[27-Mar-2016 09:35:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:35:00 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:35:27 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:35:27 UTC] PHP Stack trace:
+[27-Mar-2016 09:35:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/mypage.php:0
+[27-Mar-2016 09:35:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/mypage.php:3
+[27-Mar-2016 09:35:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:35:27 UTC] PHP Stack trace:
+[27-Mar-2016 09:35:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/mypage.php:0
+[27-Mar-2016 09:35:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/mypage.php:3
+[27-Mar-2016 09:35:29 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:35:29 UTC] PHP Stack trace:
+[27-Mar-2016 09:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/mypage.php:0
+[27-Mar-2016 09:35:29 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/mypage.php:3
+[27-Mar-2016 09:35:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:35:29 UTC] PHP Stack trace:
+[27-Mar-2016 09:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/mypage.php:0
+[27-Mar-2016 09:35:29 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/mypage.php:3
+[27-Mar-2016 09:41:31 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:41:31 UTC] PHP Stack trace:
+[27-Mar-2016 09:41:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:41:31 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:41:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:41:31 UTC] PHP Stack trace:
+[27-Mar-2016 09:41:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:41:31 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:41:50 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:41:50 UTC] PHP Stack trace:
+[27-Mar-2016 09:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:41:50 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:41:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/devAid-v1.1/twitteroauth/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/devAid-v1.1/config.php on line 6
+[27-Mar-2016 09:41:50 UTC] PHP Stack trace:
+[27-Mar-2016 09:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:41:50 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:42:23 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/devAid-v1.1/Register.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/devAid-v1.1/config.php on line 21
+[27-Mar-2016 09:42:23 UTC] PHP Stack trace:
+[27-Mar-2016 09:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:42:23 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:42:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/devAid-v1.1/Register.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/devAid-v1.1/config.php on line 21
+[27-Mar-2016 09:42:23 UTC] PHP Stack trace:
+[27-Mar-2016 09:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/devAid-v1.1/index.php:0
+[27-Mar-2016 09:42:23 UTC] PHP   2. require_once() /home/ubuntu/workspace/devAid-v1.1/index.php:3
+[27-Mar-2016 09:50:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/devAid-v1.1/index.php on line 251
